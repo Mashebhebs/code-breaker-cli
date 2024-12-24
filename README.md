@@ -41,21 +41,25 @@ The code was: 5732
 
 ## How to Build and Run
 Clone this repository:
-`git clone https://github.com/your-username/code-breaker-cli.git
+`
+git clone https://github.com/your-username/code-breaker-cli.git
 cd code-breaker-cli/src`
 
 ## Compile the program:
 
-`g++ -o codebreaker codebreaker.cpp`
+`
+g++ -o codebreaker codebreaker.cpp`
 
 ## Run the program:
-`./codebreaker`
+`
+./codebreaker`
 
 ## File Structure
-`code-breaker-cli/
+`
+code-breaker-cli/
 ├── src/
 │   └── codebreaker.cpp  
-└── README.md             
+└── README.md`           
 
 ## Future Improvements
 Add a difficulty selection option (e.g., longer codes or more attempts).
